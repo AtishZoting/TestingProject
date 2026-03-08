@@ -3,13 +3,10 @@ I am Atish
 I am Smita
 I am watching only
 TOday is Sunday
-<<<<<<< Updated upstream
 Using new branch
 now nor mal track
-=======
 I am Exppert in conflit
 I am now working.....
-
->>>>>>> Stashed changes
+I am Exusted now...I need brak
 
 
